@@ -14,10 +14,10 @@ function IndexNewtab() {
         flexDirection: "column"
       }}>
       <h1>
-        Welcome to your <a href="https://www.plasmo.com">Plasmo</a> Extension!
+        Welcome to Youtube ai Extension!
       </h1>
       <input onChange={(e) => setData(e.target.value)} value={data} />
-      <footer>Crafted by @PlasmoHQ</footer>
+      <footer>Crafted by @Shr11</footer>
     </div>
   )
 }
